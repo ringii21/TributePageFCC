@@ -1,0 +1,44 @@
+body{
+  padding-top: 10px; 
+  background-color: #eee;
+  text-align: center;
+  font-family: Arial;
+}
+
+#img-div{
+  background-color: white;
+  padding: 2Opx 0px 20px 0px;
+  margin: 20px;
+  text-align: center;
+}
+
+img{
+  margin: 0 auto;
+  padding: auto;
+  max-width: 100%;
+  text-align: center;
+  display: block;
+
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    text-align: -webkit-match-parent;
+     margin: 1em 0;
+  
+}
+
+#cite{
+  
+  font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
